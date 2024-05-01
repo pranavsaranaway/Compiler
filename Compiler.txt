@@ -1,0 +1,51 @@
+#example print statement
+quack: i love quack
+#example print error
+poo quack:
+
+#assign an int & display it
+ivar:test123
+quack: the int is,test,
+#example variable error
+gaming ivar:int123
+
+#assign a string and display
+svar:b.today is a good day
+quack: how is today?,b,
+#example error where string declaration is not at the beginning
+gaming svar:a.gaming
+
+#Math time:
+5+4=
+5-4=
+5*4=
+20/4=
+4%2=
+
+#int comparison
+ivar:a123
+ivar:c20
+if a > c then quack: success
+
+#String comparison
+svar:gaming.A
+svar:beegis.A
+if gaming == beegis then quack: gaming
+
+#user input
+quack: what is your name?
+svar:uranium.(waddle)
+quack: hi ,uranium,!
+#for numbers
+quack: enter a number
+ivar:cai(waddle)
+quack: your number was,cai,
+
+#looping example
+$loop(5) do quack:gaming
+
+
+
+
+
+
