@@ -1,2 +1,2 @@
-# Compiler
-My APCSA Final that I kind of trolled
+# Quack.OS
+AP CSA Final that creates a simple coding language structured in Java
