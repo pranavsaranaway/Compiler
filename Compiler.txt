@@ -1,7 +1,7 @@
 #example print statement
 quack: i love quack
 #example print error
-poo quack:
+talk quack:
 
 #assign an int & display it
 ivar:test123
